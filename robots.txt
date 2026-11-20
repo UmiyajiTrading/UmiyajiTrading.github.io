@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kunjladani05.github.io/UmiyajiTrading/sitemap.xml
+Sitemap: https://UmiyajiTrading.github.io/sitemap.xml
